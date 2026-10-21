@@ -1,4 +1,4 @@
-25752<?php
+<?php
 
 use App\Kernel;
 
